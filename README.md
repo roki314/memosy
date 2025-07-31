@@ -7,4 +7,8 @@
 ## kilka wersji....
 
 
+## lokalnie , ubu314,
+- czy da sie ustawic autora...??
+- żeby na laptopie był inny niż 
+
 ## xx
