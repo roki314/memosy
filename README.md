@@ -11,4 +11,7 @@
 - czy da sie ustawic autora...??
 - żeby na laptopie był inny niż 
 
+## lokalnie2 , tst2
+- zmienielem jeszcze email...
+
 ## xx
