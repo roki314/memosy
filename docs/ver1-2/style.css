@@ -37,7 +37,7 @@ header {
 }
 
 .buttons button:hover {
-  transform: scale(1.05);
+  transform: scale(1.09);
 }
 
 main {
@@ -68,6 +68,7 @@ main {
   border-top: 2px solid #ccc;
   position: relative;
   overflow: hidden;
+  z-index: -20;
 }
 
 #box {
@@ -79,22 +80,23 @@ main {
   left: 0;
   animation: moveBox 2s linear infinite;
   border-radius: 10px;
+  z-index: -10;
 }
 
 @keyframes moveBox {
   0% { left: 20%; }
-  50% { left: 40%; }
+  50% { left: 25%; }
   100% { left: 20%; }
 
 }
 
 .memo-title {
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 .memo-body {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 
