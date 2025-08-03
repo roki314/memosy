@@ -6,5 +6,8 @@
 
 ## kilka wersji....
 
+## roki512o, współpraca
+- 250803, 16:58, hi
+- xx
 
 ## xx
